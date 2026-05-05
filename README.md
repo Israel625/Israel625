@@ -1,25 +1,25 @@
-# 👨🏻‍💻 Israel Coelho Silva
+# Israel Coelho Silva
 
 **`Desenvolvedor Full Stack`**
 
-Sou **Israel Coelho Silva**, desenvolvedor full stack e estudante do último ano de **Análise e Desenvolvimento de Sistemas**.  
-Apaixonado por tecnologia, busco sempre criar soluções que unam **eficiência, design e inovação**.  
+Sou **Israel Coelho Silva**, desenvolvedor full stack e estudante do último ano de **Análise e Desenvolvimento de Sistemas**. 
+Apaixonado por tecnologia, busco sempre criar soluções que unam **eficiência, design e inovação**. 
 Tenho experiência em **C, C#, TypeScript, React, Python e PHP**, além de forte interesse por **engenharia de software, UX/UI e automação de processos**.
 
-💡 Meu foco é transformar ideias em sistemas funcionais, bem estruturados e com uma ótima experiência de uso.  
-🚀 Aqui você encontra meus **projetos pessoais, acadêmicos e experimentos com novas tecnologias**.
+Meu foco é transformar ideias em sistemas funcionais, bem estruturados e com uma ótima experiência de uso. 
+Aqui você encontra meus **projetos pessoais, acadêmicos e experimentos com novas tecnologias**.
 
 ---
 
-### 💼 Atuação Profissional
+### Atuação Profissional
 
 Atualmente focado no gerenciamento e desenvolvimento de soluções voltadas para monitoramento e performance:
 
-🔗 **Organização Atual:** [Monitoramento e Performance](https://github.com/MonitoramentoPerformance)
+**Organização Atual:** [Monitoramento e Performance](https://github.com/MonitoramentoPerformance)
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 *   **Summit Hub**: Sistema de reservas para traders desenvolvido com foco em UX, segurança e interface moderna.
 *   **LeadFlow**: Sistema de segregação de leads com IA para automação de atendimento de microempreendedores.
@@ -27,7 +27,7 @@ Atualmente focado no gerenciamento e desenvolvimento de soluções voltadas para
 
 ---
 
-### ⚙️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Israel625)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Israel625)
@@ -40,14 +40,14 @@ Atualmente focado no gerenciamento e desenvolvimento de soluções voltadas para
 
 ---
 
-### 📊 Estatísticas GitHub
+### Estatísticas GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight)
 ![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Israel625&layout=compact&theme=tokyonight)
 
 ---
 
-### 🌐 Conecte-se comigo
+### Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israelcoelho625@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-coelho-silva-873560232/)
