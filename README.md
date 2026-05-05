@@ -4,19 +4,26 @@
 
 Sou **Israel Coelho Silva**, desenvolvedor full stack e estudante do último ano de **Análise e Desenvolvimento de Sistemas**.  
 Apaixonado por tecnologia, busco sempre criar soluções que unam **eficiência, design e inovação**.  
-Tenho experiência em **C, C#, TypeScript, React, Python e PHP**, além de forte interesse por **engenharia de software, UX/UI e automação de processos**.
+
+Tenho experiência em **C, C#, TypeScript, React, Python e PHP**, com forte interesse em **engenharia de software, UX/UI e automação de processos**.
 
 💡 Meu foco é transformar ideias em sistemas funcionais, bem estruturados e com uma ótima experiência de uso.  
 🚀 Aqui você encontra meus **projetos pessoais, acadêmicos e experimentos com novas tecnologias**.
 
 ---
 
-### 💼 Atuação Profissional
+### 💼 Experiência em Destaque
 
-Atualmente atuando no gerenciamento e desenvolvimento de soluções voltadas para monitoramento e performance:
+Atualmente atuo no desenvolvimento e gerenciamento de soluções voltadas para **monitoramento, telemetria e análise de performance de sistemas**.
 
-🔗 **Tipo Atuando:**  
-https://github.com/MonitoramentoPerformance
+🚀 **Organização / Projeto:**  
+https://github.com/MonitoramentoPerformance  
+
+📌 **Principais focos:**
+- Monitoramento de desempenho de sistemas
+- Coleta e análise de dados (telemetria)
+- Automação de processos
+- Estruturação de soluções escaláveis
 
 ---
 
@@ -42,32 +49,23 @@ https://github.com/MonitoramentoPerformance
 
 <p align="center">
   <img 
-       alt="GitHub Stats" 
        height="180" 
-       src="https://github-readme-stats.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=3600" 
+       src="https://github-readme-stats.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
   <img 
-       alt="Top Langs" 
        height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel625&theme=tokyonight&layout=compact&langs_count=8&hide_border=false&cache_seconds=3600"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel625&layout=compact&theme=tokyonight" 
   />
 </p>
 
 ---
 
-### 🧠 Métricas Reais
+### 📌 Destaques
 
-<p align="center">
-  <a href="https://github.com/Israel625?tab=repositories">
-    <img alt="Estrelas" src="https://img.shields.io/github/stars/Israel625?color=yellow&style=for-the-badge&label=Estrelas"/>
-  </a>
-  <a href="https://github.com/Israel625?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/Israel625?color=blue&style=for-the-badge&label=Seguidores"/>
-  </a>
-  <a href="https://github.com/Israel625">
-    <img alt="Commits Totais" src="https://badgen.net/github/commits/Israel625/Israel625/main?icon=github&label=Commits&color=orange"/>
-  </a>
-</p>
+- 🚀 Desenvolvimento de aplicações full stack
+- 📊 Interesse em sistemas de monitoramento e performance
+- 🎯 Foco em experiência do usuário (UX/UI)
+- ⚙️ Automação e otimização de processos
 
 ---
 
