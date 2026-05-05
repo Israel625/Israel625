@@ -13,7 +13,7 @@ Tenho experiência em **C, C#, TypeScript, React, Python e PHP**, além de forte
 
 ### 💼 Atuação Profissional
 
-Atualmente atuando no gerenciamento e desenvolvimento de soluções voltadas para monitoramento e performance:
+Atualmente focado no gerenciamento e desenvolvimento de soluções voltadas para monitoramento e performance:
 
 🔗 **Organização Atual:** [Monitoramento e Performance](https://github.com/MonitoramentoPerformance)
 
@@ -21,9 +21,9 @@ Atualmente atuando no gerenciamento e desenvolvimento de soluções voltadas par
 
 ### 🚀 Projetos em Destaque
 
-*   **Summit Hub**: Sistema profissional para gestão de reservas de estações de trabalho voltado para traders. Focado em UX e segurança.
-*   **LeadFlow**: Automação de segregação de leads utilizando IA para auxiliar microempreendedores a identificar clientes potenciais.
-*   **Integração DataPush**: Implementação de telemetria e eventos de status em tempo real via API push.
+*   **Summit Hub**: Sistema de reservas para traders desenvolvido com foco em UX, segurança e interface moderna.
+*   **LeadFlow**: Sistema de segregação de leads com IA para automação de atendimento de microempreendedores.
+*   **Integração DataPush**: Implementação técnica para recebimento de dados via API push e telemetria em tempo real.
 
 ---
 
@@ -47,8 +47,8 @@ Atualmente atuando no gerenciamento e desenvolvimento de soluções voltadas par
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel625&theme=tokyonight&layout=compact&langs_count=8&hide_border=false" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel625&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
