@@ -11,6 +11,15 @@ Tenho experiência em **C, C#, TypeScript, React, Python e PHP**, além de forte
 
 ---
 
+### 💼 Atuação Profissional
+
+Atualmente atuando no gerenciamento e desenvolvimento de soluções voltadas para monitoramento e performance:
+
+🔗 **Tipo Atuando:**  
+https://github.com/MonitoramentoPerformance
+
+---
+
 ### ⚙️ Linguagens e Tecnologias
 
 <p align="left">
