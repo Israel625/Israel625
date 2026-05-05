@@ -49,16 +49,14 @@ https://github.com/MonitoramentoPerformance
 
 <p align="center">
   <img 
-       height="180" 
-       src="https://github-readme-stats.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0" 
   />
   <img 
-       height="180" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel625&layout=compact&theme=tokyonight" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel625&layout=compact&theme=tokyonight&cache_seconds=0" 
   />
 </p>
-
----
 
 ### 📌 Destaques
 
