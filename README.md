@@ -4,53 +4,65 @@
 
 Sou **Israel Coelho Silva**, desenvolvedor full stack e estudante do último ano de **Análise e Desenvolvimento de Sistemas**.  
 Apaixonado por tecnologia, busco sempre criar soluções que unam **eficiência, design e inovação**.  
-
-Tenho experiência em **C, C#, TypeScript, React, Python e PHP**, com forte interesse em **engenharia de software, UX/UI e automação de processos**.
+Tenho experiência em **C, C#, TypeScript, React, Python e PHP**, além de forte interesse por **engenharia de software, UX/UI e automação de processos**.
 
 💡 Meu foco é transformar ideias em sistemas funcionais, bem estruturados e com uma ótima experiência de uso.  
 🚀 Aqui você encontra meus **projetos pessoais, acadêmicos e experimentos com novas tecnologias**.
 
 ---
 
-### 💼 Experiência em Destaque
+### 💼 Atuação Profissional
 
-Atualmente atuo no desenvolvimento e gerenciamento de soluções voltadas para **monitoramento, telemetria e análise de performance de sistemas**.
+Atualmente atuando no gerenciamento e desenvolvimento de soluções voltadas para monitoramento e performance:
 
-🚀 **Organização / Projeto:**  
-https://github.com/MonitoramentoPerformance  
+🔗 **Organização Atual:** [Monitoramento e Performance](https://github.com/MonitoramentoPerformance)
 
-📌 **Principais focos:**
-- Monitoramento de desempenho de sistemas
-- Coleta e análise de dados (telemetria)
-- Automação de processos
-- Estruturação de soluções escaláveis
+---
+
+### 🚀 Projetos em Destaque
+
+*   **Summit Hub**: Sistema profissional para gestão de reservas de estações de trabalho voltado para traders. Focado em UX e segurança.
+*   **LeadFlow**: Automação de segregação de leads utilizando IA para auxiliar microempreendedores a identificar clientes potenciais.
+*   **Integração DataPush**: Implementação de telemetria e eventos de status em tempo real via API push.
 
 ---
 
 ### ⚙️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="35"/>
 </p>
 
 ---
 
-### 📌 Destaques
+### 📊 Estatísticas GitHub
 
-- 🚀 Desenvolvimento de aplicações full stack
-- 📊 Interesse em sistemas de monitoramento e performance
-- 🎯 Foco em experiência do usuário (UX/UI)
-- ⚙️ Automação e otimização de processos
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Israel625&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel625&theme=tokyonight&layout=compact&langs_count=8&hide_border=false" />
+</p>
+
+---
+
+### 🧠 Métricas Reais
+
+<p align="center">
+  <a href="https://github.com/Israel625?tab=repositories">
+    <img alt="Estrelas" src="https://img.shields.io/github/stars/Israel625?color=yellow&style=for-the-badge&label=Estrelas"/>
+  </a>
+  <a href="https://github.com/Israel625?tab=followers">
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/Israel625?color=blue&style=for-the-badge&label=Seguidores"/>
+  </a>
+</p>
 
 ---
 
@@ -64,5 +76,3 @@ https://github.com/MonitoramentoPerformance
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
